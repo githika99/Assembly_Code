@@ -1,6 +1,6 @@
-#### Lab 4: Lab 4 takes in a csv file as input and outputs the following information: size of the file (in bytes), total income from all data points, and stock name with maximum income.
+#### This project takes in a csv file as input and outputs the following information: size of the file (in bytes), total income from all data points, and stock name with maximum income.
 
-#####  Files in Lab4:
+#####  Files:
 
 ##### lab4f22_testbench.asm
 ##### allocate_file_record_pointers.asm
